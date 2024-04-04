@@ -1,0 +1,31 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.logo-container {
+    margin-top: 20vh; /* Adjust based on your preference */
+}
+
+#logo {
+    width: 300px; /* Adjust size as needed */
+}
+
+.name {
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+#contact, #projects {
+    margin-top: 50px;
+}
+
+.project-sample {
+    display: inline-block;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    color: black;
+}
